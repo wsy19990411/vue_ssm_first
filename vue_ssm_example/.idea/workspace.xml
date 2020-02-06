@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/js/user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="229">
+              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -79,6 +79,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,22 +136,34 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="y" value="153" />
-    <option name="width" value="1245" />
-    <option name="height" value="905" />
+    <option name="x" value="781" />
+    <option name="y" value="266" />
+    <option name="width" value="1638" />
+    <option name="height" value="855" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue_ssm_example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue_ssm_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
@@ -411,7 +424,7 @@
       <workItem from="1580914424175" duration="1949000" />
       <workItem from="1580956037302" duration="5150000" />
       <workItem from="1580971126807" duration="1368000" />
-      <workItem from="1580980559192" duration="1386000" />
+      <workItem from="1580980559192" duration="1811000" />
     </task>
     <servers />
   </component>
@@ -436,13 +449,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10339000" />
+    <option name="totallyTimeSpent" value="10764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="534" y="102" width="996" height="724" extended-state="0" />
+    <frame x="94" y="318" width="1129" height="684" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30597016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26797387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -622,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="229">
+          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
         </state>
       </provider>
     </entry>
